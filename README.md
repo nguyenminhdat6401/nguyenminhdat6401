@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 
-# 🚀 Welcome to my interactive world
+# 🚀 Welcome to my world
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think;Scroll+down+to+open+the+book+👇" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 
@@ -14,18 +14,20 @@
 
 ---
 
-# 📖 About Me
+## 🌸 About Me
 
 <div align="center">
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
 </div>
 
+
 * 🤖 Passionate about AI, Machine Learning & Data Engineering
 * 📊 Learn data analysis
 * 🌐 Crafting applications with Python and React
+
 ---
 
-# 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -33,20 +35,81 @@
 
 </div>
 
+### 📊 Data & Analytics
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bokeh-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+</div>
+
+### 🧠 AI Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
 ---
 
+## 🔥 Skills & Tools
 
-# 📊 My GitHub Power
+### 📊 Data & Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bokeh-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+</div>
+
+### 🧠 AI Tools & Platforms
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,11 +118,11 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhdat6401&theme=react-dark" />
 
 ---
 
-# 🧪 Evolution
+## 🧪 Currently Learning
 
 <div align="center">
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
@@ -71,7 +134,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -79,7 +142,7 @@
 
 ---
 
-# 🎮 Dev Mindset
+## 🎮 Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -87,9 +150,19 @@
 
 ---
 
+## 🧠 Projects
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</div>
 
-# 🌐 Final Chapter: Connect
+* 📊 Air Quality Prediction (RF, XGBoost)
+* 🛒 Recommendation System
+* 🌐 Smart Management System
+
+---
+
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -101,7 +174,7 @@
 
 <div align="center">
 
-# ✨ The End... or just the beginning?
+✨ *Thanks for visiting my profile!* ✨
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
 
@@ -111,4 +184,4 @@
 
 ## ⚡ Hidden Message
 
-> "Great developers are not born... they are built, line by line." 🚀
+> "Great developers are built, not born." 🚀
