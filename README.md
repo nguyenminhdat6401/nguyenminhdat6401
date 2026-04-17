@@ -20,14 +20,14 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </div>
 
-Name      : Nguyễn Minh Đạt
-aka       : nmdat/ drveh
-Location  : Hanoi, Vietnam 🇻🇳
-Education : Applied Mathematics - UTC | GPA: 3.4/4
-Interests:
-* 🤖 Passionate about AI, Machine Learning & Data Engineering
-* 📊 Learn data analysis
-* 🌐 Crafting applications with Python and React
+* Name      : Nguyễn Minh Đạt
+* aka       : nmdat/ drveh
+* Location  : Hanoi, Vietnam 🇻🇳
+* Education : Applied Mathematics - UTC | GPA: 3.4/4
+* Interests:
+  * 🤖 Passionate about AI, Machine Learning & Data Engineering
+  * 📊 Learning Data Analysis
+  * 🌐 Building applications with Python and React
 
 ---
 
