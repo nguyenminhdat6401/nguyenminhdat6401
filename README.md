@@ -1,73 +1,95 @@
-# 👋 Xin chào, mình là Nguyễn Minh Đạt
+# 👋 Hi there, I'm Nguyen Minh Dat
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 
-# 🚀 Welcome to my world
+# 🚀 Welcome to my interactive world
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Future+AI+Engineer;Love+Coffee+%26+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think;Scroll+down+to+open+the+book+👇" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+# 📖 About Me
 
-* 🤖 Đam mê Machine Learning & AI
-* 💡 Thích biến ý tưởng thành sản phẩm thực tế
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
+</div>
 
+* 🤖 Passionate about AI, Machine Learning & Data Engineering
+* 📊 Learn data analysis
+* 🌐 Crafting applications with Python and React
 ---
 
-
-## 🛠️ Tech Stack
+# 🧠 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,postgresql" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhdat6401&theme=tokyo-night" />
-
----
-
-## 🎧 Vibes while coding
+# 📊 My GitHub Power
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenminhdat6401&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenminhdat6401&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+
 ---
 
-## 🐍 Contribution Snake
+# 🧪 Evolution
 
 <div align="center">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
+</div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+* 🧠 Deep Learning
+* ☁️ Cloud Engineering (AWS)
+* 🏗️ System Design
 
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## 🌐 Connect with me
+# 🎮 Dev Mindset
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+
+
+# 🌐 Final Chapter: Connect
 
 <div align="center">
 
@@ -77,21 +99,16 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> "Code không chạy không phải do bug... mà do chưa chạy 😆"
-
----
-
 <div align="center">
 
-✨ *Cảm ơn bạn đã ghé thăm!* ✨
+# ✨ The End... or just the beginning?
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
 
 </div>
 
-<!---
-nguyenminhdat6401/nguyenminhdat6401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚡ Hidden Message
+
+> "Great developers are not born... they are built, line by line." 🚀
