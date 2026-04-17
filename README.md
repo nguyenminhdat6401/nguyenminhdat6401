@@ -17,7 +17,7 @@
 ## 🌸 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </div>
 
 
@@ -114,17 +114,6 @@
 
 ---
 
-## 🧠 Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
-</div>
-
-* 📊 Air Quality Prediction (RF, XGBoost)
-* 🛒 Recommendation System
-* 🌐 Smart Management System
-
----
 
 ## 🌐 Connect with me
 
