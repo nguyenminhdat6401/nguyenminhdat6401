@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgresql" />
 
 </div>
 
@@ -138,6 +138,4 @@
 
 ## ⚡ Hidden Message
 
-> "｡ﾟﾟ･｡･ﾟﾟ｡
-ﾟ。     ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ 
-　ﾟ･｡･°" 🚀
+> "DonlaestuDexals" 🚀
