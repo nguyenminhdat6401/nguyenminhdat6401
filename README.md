@@ -10,11 +10,11 @@
 
 📧 Gmail: **nguyenminhdat6401@gmail.com**
 
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://nguyenminhdat6401.github.io/nmd6401/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/datnguyenminh6401/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
