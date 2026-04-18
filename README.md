@@ -134,4 +134,9 @@
 
 ---
 
-<div align="center"> ✨ *Thanks for visiting my profile!* ✨ <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" /> </div>
+<div align="center"> 
+
+✨ *Thanks for visiting my profile!* ✨ 
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" /> 
+
+</div>
