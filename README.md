@@ -1,5 +1,17 @@
 # 👋 Hi there, I'm Nguyen Minh Dat
 
+---
+
+# 🚀 Welcome to my world
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+
+</div>
+
+---
+
 <div align="center">
 
 <a href="https://nguyenminhdat6401.github.io/nmd6401/">
@@ -9,17 +21,6 @@
 <a href="https://www.linkedin.com/in/datnguyenminh6401/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
-
-# 🚀 Welcome to my world
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think" />
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 
 </div>
 
