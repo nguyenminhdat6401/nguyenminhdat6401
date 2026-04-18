@@ -1,6 +1,8 @@
+<div align="center">
+
 # 👋 Hi there, I'm Nguyen Minh Dat
 
----
+</div>
 
 ## 📬 Connect with me
 
@@ -8,8 +10,8 @@
 
 📧 Gmail: **nguyenminhdat6401@gmail.com**
 
-<a href="mailto:nguyenminhdat6401@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/" target="_blank">
@@ -20,11 +22,16 @@
 
 ---
 
+<div align="center">
+
 # 🚀 Welcome to my world
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+
+
+</div>
 
 ---
 
