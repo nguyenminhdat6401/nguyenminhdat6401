@@ -2,13 +2,29 @@
 
 ---
 
+## 📬 Connect with me
+
+<div align="center">
+
+📧 Gmail: **nguyenminhdat6401@gmail.com**
+
+<a href="mailto:nguyenminhdat6401@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 # 🚀 Welcome to my world
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;Data+Science+Explorer;SQL+%7C+Python+%7C+Machine+Learning;I+build+things+that+think" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
-
-</div>
 
 ---
 
@@ -18,10 +34,10 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </div>
 
-* Name      : Nguyễn Minh Đạt
-* aka       : nmdat/ drveh
-* Location  : Hanoi, Vietnam 🇻🇳
-* Education : Applied Mathematics - UTC | GPA: 3.4/4
+* Name      : Nguyễn Minh Đạt  
+* aka       : nmdat / drveh  
+* Location  : Hanoi, Vietnam 🇻🇳  
+* Education : Applied Mathematics - UTC | GPA: 3.4/4  
 * Interests:
   * 🤖 Passionate about AI, Machine Learning & Data Engineering
   * 📊 Learning Data Analysis
@@ -32,9 +48,7 @@
 ## 🧠 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgresql" />
-
 </div>
 
 ### 📊 Data & Analytics
@@ -68,11 +82,9 @@
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-AA0000?style=for-the-badge&logo=gemini&logoColor=black" />
+<img src="https://img.shields.io/badge/Gemini-AA0000?style=for-the-badge" />
 
 </div>
-
-
 
 ---
 
@@ -95,9 +107,9 @@
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
 </div>
 
-* 🧠 Deep Learning
-* ☁️ Cloud Engineering (AWS)
-* 🏗️ System Design
+* 🧠 Deep Learning  
+* ☁️ Cloud Engineering (AWS)  
+* 🏗️ System Design  
 
 ---
 
@@ -109,14 +121,9 @@
 
 ---
 
-## 🎮 Dev Quote
+## ⚡ Hidden Message
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-
-
+> "DonlaestuDexals" 🚀
 
 ---
 
@@ -124,12 +131,4 @@
 
 ✨ *Thanks for visiting my profile!* ✨
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
-
 </div>
-
----
-
-## ⚡ Hidden Message
-
-> "DonlaestuDexals" 🚀
