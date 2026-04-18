@@ -2,6 +2,17 @@
 
 <div align="center">
 
+<a href="https://nguyenminhdat6401.github.io/nmd6401/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/datnguyenminh6401/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+<div align="center">
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 
 # 🚀 Welcome to my world
@@ -117,22 +128,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
 
 
-## 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://nguyenminhdat6401.github.io/nmd6401/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/datnguyenminh6401/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
