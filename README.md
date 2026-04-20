@@ -4,24 +4,20 @@
 
 </div>
 
+---
+
 ## 📬 Connect with me
 
 <div align="center">
-
-📧 Gmail: **nguyenminhdat6401@gmail.com**
-
-
-<div align="center">
+  📧 Gmail: **nguyenminhdat6401@gmail.com**
+  <br><br>
   <a href="https://nguyenminhdat6401.github.io/nmdat/">
     <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=a7ffeb" />
   </a>
-  
   <a href="https://www.linkedin.com/in/datnguyenminh6401/">
     <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-000000?style=for-the-badge&logo=github&logoColor=f48fb1" />
   </a>
-</p>
-
-
+</div>
 
 ---
 
@@ -33,7 +29,6 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 
-
 </div>
 
 ---
@@ -41,14 +36,14 @@
 ## 🌸 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </div>
 
-* Name      : Nguyễn Minh Đạt  
-* aka       : nmdat / drveh  
-* Location  : Hanoi, Vietnam 🇻🇳  
-* Education : Applied Mathematics - UTC | GPA: 3.4/4  
-* Interests:
+* **Name**: Nguyễn Minh Đạt
+* **aka**: nmdat / drveh
+* **Location**: Hanoi, Vietnam 🇻🇳
+* **Education**: Applied Mathematics - UTC | **GPA**: 3.4/4
+* **Interests**:
   * 🤖 Passionate about AI, Machine Learning & Data Engineering
   * 📊 Learning Data Analysis
   * 🌐 Building applications with Python and React
@@ -58,42 +53,33 @@
 ## 🧠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgresql" />
 </div>
 
 ### 📊 Data & Analytics
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bokeh-E34F26?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bokeh-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
 ### 🤖 AI / Machine Learning
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 ### 🧠 AI Tools
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-AA0000?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini-AA0000?style=for-the-badge" />
 </div>
 
 ---
@@ -101,32 +87,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenminhdat6401&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenminhdat6401&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenminhdat6401&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenminhdat6401&theme=tokyonight&hide_border=true" width="48%" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhdat6401&theme=react-dark" width="100%" />
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhdat6401&theme=react-dark" />
 
 ---
 
 ## 🧪 Currently Learning
 
 <div align="center">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" />
 </div>
 
-* 🧠 Deep Learning  
-* ☁️ Cloud Engineering (AWS)  
-* 🏗️ System Design  
+* 🧠 Deep Learning
+* ☁️ Cloud Engineering (AWS)
+* 🏗️ System Design
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -137,7 +121,6 @@
 
 ---
 
-
 <div align="center">
 
 ## ✨ Thanks for visiting my profile! ✨
@@ -145,5 +128,3 @@
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" />
 
 </div>
-
----
