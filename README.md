@@ -12,13 +12,15 @@
 
 <div align="center">
 
-<a href="https://nguyenminhdat6401.github.io/nmdat/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/datnguyenminh6401/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<p align="center">
+  <a href="https://nguyenminhdat6401.github.io/nmdat/">
+    <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-00f2ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111827" alt="Portfolio Neon">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/datnguyenminh6401/">
+    <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-bcfe2f?style=for-the-badge&logo=github&logoColor=black&labelColor=111827" alt="GitHub Neon">
+  </a>
+</p>
 
 
 
