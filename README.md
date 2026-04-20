@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio--111827?style=for-the-badge\&logo=firefox\&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub--000000?style=for-the-badge\&logo=github\&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://nguyenminhdat6401.github.io/nmdat/-111827?style=for-the-badge\&logo=firefox\&logoColor=white)](https://nguyenminhdat6401.github.io/nmdat/)
+[![GitHub](https://img.shields.io/badge/GitHub-https://www.linkedin.com/in/datnguyenminh6401/-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://www.linkedin.com/in/datnguyenminh6401/)
 
 
 
