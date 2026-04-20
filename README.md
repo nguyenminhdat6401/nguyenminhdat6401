@@ -10,7 +10,6 @@
 
 📧 Gmail: **nguyenminhdat6401@gmail.com**
 
-<div align="center">
 
 <p align="center">
   <a href="https://nguyenminhdat6401.github.io/nmdat/">
