@@ -12,9 +12,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge\&logo=firefox\&logoColor=white)](https://nguyenminhdat6401.github.io/nmdat/)
-[![GitHub](https://img.shields.io/badge/GitHub-datnguyenminh6401-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://www.linkedin.com/in/datnguyenminh6401/)
+<a href="https://nguyenminhdat6401.github.io/nmdat/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+</a>
 
+<a href="https://www.linkedin.com/in/datnguyenminh6401/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 
 
