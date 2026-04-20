@@ -11,7 +11,7 @@
 📧 Gmail: **nguyenminhdat6401@gmail.com**
 
 
-<p align="center">
+<div align="center">
   <a href="https://nguyenminhdat6401.github.io/nmdat/">
     <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=a7ffeb" />
   </a>
