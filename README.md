@@ -12,19 +12,10 @@
 
 <div align="center">
 
-<a href="https://nguyenminhdat6401.github.io/nmdat/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a><br/>
-🔗 <a href="https://nguyenminhdat6401.github.io/nmdat/" target="_blank">https://nguyenminhdat6401.github.io/nmdat/</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio--111827?style=for-the-badge\&logo=firefox\&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub--000000?style=for-the-badge\&logo=github\&logoColor=white)]()
 
-<br/><br/>
 
-<a href="https://www.linkedin.com/in/datnguyenminh6401/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br/>
-🔗 <a href="https://www.linkedin.com/in/datnguyenminh6401/" target="_blank">https://www.linkedin.com/in/datnguyenminh6401/</a>
-
-</div>
 
 
 ---
