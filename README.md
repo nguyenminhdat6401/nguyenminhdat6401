@@ -12,13 +12,13 @@
 
 <div align="center">
 
-<p align="center">
+<p align="left">
   <a href="https://nguyenminhdat6401.github.io/nmdat/">
-    <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-00f2ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111827" alt="Portfolio Neon">
+    <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=a7ffeb" />
   </a>
   
   <a href="https://www.linkedin.com/in/datnguyenminh6401/">
-    <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-bcfe2f?style=for-the-badge&logo=github&logoColor=black&labelColor=111827" alt="GitHub Neon">
+    <img src="https://img.shields.io/badge/GitHub-datnguyenminh6401-000000?style=for-the-badge&logo=github&logoColor=f48fb1" />
   </a>
 </p>
 
