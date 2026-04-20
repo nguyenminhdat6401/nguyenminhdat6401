@@ -10,7 +10,7 @@
 
 📧 Gmail: **nguyenminhdat6401@gmail.com**
 
-<a href="https://nguyenminhdat6401.github.io/nmd6401/" target="_blank">
+<a href="https://nguyenminhdat6401.github.io/nmdat/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
