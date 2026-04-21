@@ -9,7 +9,7 @@
 ## 📬 Connect with me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Gmail-nguyenminhdat6401-000000?style=for-the-badge&logo=github&logoColor=f48fb1" />
+  <img src="https://img.shields.io/badge/Gmail-nguyenminhdat6401@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=f48fb1" />
   <br><br>
   <a href="https://nguyenminhdat6401.github.io/nmdat/">
     <img src="https://img.shields.io/badge/Portfolio-nguyenminhdat6401.github.io-111827?style=for-the-badge&logo=firefox&logoColor=a7ffeb" />
