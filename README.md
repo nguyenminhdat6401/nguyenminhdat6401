@@ -53,7 +53,7 @@
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,html,sklearn,react,mysql,git" />
 </div>
 
 ### 📊 Data & Analytics
